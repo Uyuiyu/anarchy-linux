@@ -43,7 +43,7 @@ paginate = 5 # Number of blog posts on one page
     inputSubmitValue = "Send"
 
 [params.posts]
-    showAuthor = false
+    showAuthor = true
     showDate = true
     showTags = true
     dateFormat = "January 2, 2006"
