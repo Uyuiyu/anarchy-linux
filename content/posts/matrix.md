@@ -5,7 +5,7 @@ date: 2019-09-10T15:07:18+02:00
 publishDate: 2019-09-10T15:07:18+02:00
 author: "Erazem Kokot"
 images: []
-draft: false
+draft: true
 tags: [news]
 ---
 
