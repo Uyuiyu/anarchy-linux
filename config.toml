@@ -50,6 +50,7 @@ paginate = 5 # Number of blog posts on one page
 
 [params.social]
     github = "https://github.com/deadhead420/anarchy-linux"
+    facebook = "https://www.facebook.com/groups/archanywhere/"
 
 [params.copy] # Copyright
     copy = "Licensed under the CC-BY-SA-4.0 license" # Empty for default content
