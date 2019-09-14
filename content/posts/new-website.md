@@ -1,16 +1,18 @@
 ---
 title: "New Website"
-description: ""
+description: "We've created a new website"
 date: 2019-09-01T09:25:41+02:00
 publishDate: 2019-09-01T09:25:41+02:00
 author: "Erazem Kokot"
 images: []
 draft: false
-tags: []
+tags: ["news"]
 ---
 
 You've stumbled upon our revamped website.
-It was built to be modern and fast using the [Hugo](https://gohugo.io/) static website generator
-and the [Terrassa theme](https://github.com/danielkvist/hugo-terrassa-theme).
+It was built to be modern and fast using the [Hugo](https://gohugo.io/)
+static website generator and the
+[Terrassa theme](https://github.com/danielkvist/hugo-terrassa-theme).
 
-If you haven't already, check out our [Github project page](https://github.com/deadhead420/anarchy-linux).
+If you haven't already, check out our 
+[Github project page](https://github.com/deadhead420/anarchy-linux).
