@@ -9,7 +9,7 @@ draft: false
 tags: ["news"]
 ---
 
-#  We started a Telegram group
+### We started a Telegram group
 
 I'm announcing the creation of a discussion group in the Telegram instant messaging service.
 
