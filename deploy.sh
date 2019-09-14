@@ -30,7 +30,8 @@ echo "Pushing to gh-pages branch"
 git push upstream gh-pages
 
 echo "Cleaning up"
-rm -rf public
+rm -rf public/
+rm -rf resources/
 git worktree prune
 rm -rf .git/worktrees/public/
 
