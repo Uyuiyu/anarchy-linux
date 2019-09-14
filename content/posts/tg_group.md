@@ -9,8 +9,6 @@ draft: false
 tags: ["news"]
 ---
 
-### We started a Telegram group
-
 I'm announcing the creation of a discussion group in the Telegram instant messaging service.
 
 We invite you to join the group by clicking on [this link](https://t.me/anarchy_linux) to discuss new ideas and features to be implemented in future releases.
