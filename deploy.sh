@@ -5,11 +5,8 @@ if [["`git status-s`"]]; then
 	exit 1;
 fi
 
-if [[ -d ./public ]]; then
-    echo "Deleting old publication (public folder)"
-    rm -rf public
-fi
-
+echo "Deleting old publication (public folder)"
+rm -rf public
 mkdir public
 git worktree prune
 rm -rf .git/worktrees/public/
@@ -28,11 +25,5 @@ cd public && git add --all && git commit -m "Publish to gh-pages (deploy.sh)"
 
 echo "Pushing to gh-pages branch"
 git push upstream gh-pages
-
-echo "Cleaning up"
-git worktree prune
-rm -rf .git/worktrees/public/
-rm -rf public/
-rm -rf resources/
 
 echo "Done, exiting."
